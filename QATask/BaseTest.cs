@@ -1,7 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OpenQA.Selenium;
 
-namespace SeleniumTraining
+namespace QATask
 {
     [TestClass]
     public class BaseTest

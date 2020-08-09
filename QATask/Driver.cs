@@ -1,8 +1,8 @@
-﻿using OpenQA.Selenium;
-using System;
+﻿using System;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace SeleniumTraining
+namespace QATask
 {
     public class Driver
     {
