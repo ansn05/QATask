@@ -13,10 +13,10 @@ Test can be run using Visual Studio environment using TestExplorer window or dir
 What things you need to do to run test without Visual Studio environment:
 
 ```
-*Copy and unpack bin.zip  into C:\CT\bin .
-*Copy and unpack TestPlatform.zip into C:\CT\TestPlatform .
-*Copy and upack Runner.zip into C:\CT .
-*Run TestRunner.bat file.
-*Results File saved in c:\CT\TestResults\[CTResult].trx.html (Each run of the test will overwritten test result .html file)
+* Save from repo and unpack bin.zip file into C:\CT\bin .
+* Save from repo and unpack TestPlatform.zip into C:\CT\TestPlatform .
+* Save from repo and upack Runner.zip into C:\CT .
+* Run TestRunner.bat file.
+* Results File saved in c:\CT\TestResults\[CTResult].trx.html (Each run of the test will overwritten test result .html file)
 ```
 
