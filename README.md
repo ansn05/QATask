@@ -17,6 +17,6 @@ What things you need to do to run test without Visual Studio environment:
 *Copy and unpack TestPlatform.zip into C:\CT\TestPlatform .
 *Copy and upack Runner.zip into C:\CT .
 *Run TestRunner.bat file.
-*Go to C:\CT\TestPlatform\TestResults\ and here you can find html tests report.
+*Results File saved in c:\CT\TestResults\[CTResult].trx (Each run of the test will overwritten test result .trx file)
 ```
 
